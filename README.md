@@ -1,7 +1,7 @@
-# Tic-Tac-Toe_
-# Internship-Website-
+# Tic-Tac-Toe GAME
 
-**STATUS: This is Open Sourced Internship Website Template **
+
+** **
 
 ![Screenshot 2021-06-20 031329](https://user-images.githubusercontent.com/76607486/122656214-0c70d780-d176-11eb-82b9-0bb80eeaa9dc.jpg)
 
@@ -10,7 +10,7 @@
 
 
 
-## How to use this
+## Controls
 
 First clone or [download the template](git@github.com:harshp77/Internship-Website-.git), that is the starting point for your site.
 
