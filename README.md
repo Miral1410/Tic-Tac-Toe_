@@ -23,6 +23,15 @@
   
   6) Click on each grid to place symbol X or O(6X6 GRID)
   ![6x6](https://user-images.githubusercontent.com/83778970/123062071-d3608d80-d429-11eb-851a-5d757a10497d.jpg)
+  
+  7)If game is over then popup window will appear
+  
+  ![o wins](https://user-images.githubusercontent.com/83778970/123070707-9c8e7580-d431-11eb-9e1b-1121f6d17894.jpg)
+  ![x wins](https://user-images.githubusercontent.com/83778970/123070712-9dbfa280-d431-11eb-998f-f346fff8c728.jpg)
+  ![match tied](https://user-images.githubusercontent.com/83778970/123070714-9e583900-d431-11eb-8840-6bb6d71c4313.jpg)
+ 
+  
+  
 
   7) Click on file in the menubar to Start new game or Exit the Game 
   
