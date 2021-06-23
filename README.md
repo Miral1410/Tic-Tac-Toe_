@@ -9,6 +9,7 @@
   ![Start page](https://user-images.githubusercontent.com/83778970/123055052-1c611380-d423-11eb-917c-df488d67bd13.jpg)
 
   2) Select the Grid you want to play
+  
   ![Grid page](https://user-images.githubusercontent.com/83778970/123055314-60ecaf00-d423-11eb-9f88-8ff352ce8c49.jpg)
   
   3) Click on each grid to place symbol X or O(3X3 GRID)
