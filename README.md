@@ -53,11 +53,10 @@ Your new HTML website will immediately have publishable and documented code, and
 
 
 ## Contact
-
-Harsh Pandey - (harsh20101@iiitnr.edu.in)  
-Abhishek Kerketta - (abhishek20101@iiitnr.edu.in)  
-Vishal Nitnaware - (vishal20102@iiitnr.edu.in)  
-Project Link: [https://github.com/harshp77/Internship-Website-](https://github.com/harshp77/Internship-Website-)
+Rachit Chaddha - (rachit20101@iiitnr.edu.in) 
+Miral Kumar Ratre - (miral20100@iiitnr.edu.in) 
+Tushar Tirkey - (tushar20102@iiitnr.edu.in) 
+Project Link - (https://github.com/Miral1410/Tic-Tac-Toe_)
 
 
 
