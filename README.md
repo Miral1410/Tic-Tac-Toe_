@@ -28,7 +28,7 @@
  ### Built With
 
 * [Tkinter](https://docs.python.org/3/library/tkinter.html)
-* [Python]
+* Python
 
 ## Contact
 * Rachit Chaddha - (rachit20101@iiitnr.edu.in) 
