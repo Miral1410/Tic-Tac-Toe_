@@ -18,36 +18,30 @@
   ![4x4](https://user-images.githubusercontent.com/83778970/123059502-7a8ff580-d427-11eb-978c-c69bf10751a0.jpg)
   
   5) Click on each grid to place symbol X or O(5X5 GRID)
-  
+  ![5x5](https://user-images.githubusercontent.com/83778970/123062008-c6439e80-d429-11eb-8e06-9884e25bf15d.jpg)
   
   6) Click on each grid to place symbol X or O(6X6 GRID)
-  
+  ![6x6](https://user-images.githubusercontent.com/83778970/123062071-d3608d80-d429-11eb-851a-5d757a10497d.jpg)
 
-  
   7) Click on file in the menubar to Start new game or Exit the Game 
   
-  
-  
- 
-  
-  
-
- 
  ### Built With
 
 * [Tkinter](https://docs.python.org/3/library/tkinter.html)
 * [Python]
 
 ## Contact
-Rachit Chaddha - (rachit20101@iiitnr.edu.in) 
-Miral Kumar Ratre - (miral20100@iiitnr.edu.in) 
-Tushar Tirkey - (tushar20102@iiitnr.edu.in) 
-Project Link - (https://github.com/Miral1410/Tic-Tac-Toe_)
+* Rachit Chaddha - (rachit20101@iiitnr.edu.in) 
+* Miral Kumar Ratre - (miral20100@iiitnr.edu.in) 
+* Tushar Tirkey - (tushar20102@iiitnr.edu.in) 
+* Project Link - (https://github.com/Miral1410/Tic-Tac-Toe_)
 
 ## License
 Open Source
 
 
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Code With Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
+* [w3school](https://www.w3schools.com/python/python_intro.asp)
+* [Codemy](https://codemy.com/)
+* [Edureka](https://www.youtube.com/watch?v=VMP1oQOxfM0&t=414s)
+* [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge)
